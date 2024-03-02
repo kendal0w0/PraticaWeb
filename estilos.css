@@ -8,7 +8,20 @@ h1{
     color: bisque;
 }
 
-.img{
-    float: none;
+#container {
     margin: auto;
+    width: 300px;
+    height: auto;
+    border: 1px solid red;
+    padding: 10px;
+  }
+
+#container img{
+    max-width: 100%;
+    height: auto;
+}
+
+.tex{
+    color: bisque;
+    text-align: center;
 }
