@@ -1,0 +1,14 @@
+body{
+    background: rgb(22, 21, 21);
+}
+
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans';
+    color: bisque;
+}
+
+.img{
+    float: none;
+    margin: auto;
+}
